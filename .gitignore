@@ -1,3 +1,6 @@
+#Generated Files
+content/scripts
+
 # Logs
 logs
 *.log
