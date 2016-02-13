@@ -2,9 +2,7 @@ var gulp = require('gulp');
 var rjs = require('gulp-requirejs');
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
-var plumber = require('gulp-plumber');
 var watch = require('gulp-watch');
-var rimraf = require('rimraf');
 
 gulp.task('default', ['build']);
 
